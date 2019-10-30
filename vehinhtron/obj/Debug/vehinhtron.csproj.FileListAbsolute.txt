@@ -1,0 +1,6 @@
+C:\Users\Dell 7559\source\repos\vehinhCsharp\vehinhtron\bin\Debug\vehinhtron.exe.config
+C:\Users\Dell 7559\source\repos\vehinhCsharp\vehinhtron\bin\Debug\vehinhtron.exe
+C:\Users\Dell 7559\source\repos\vehinhCsharp\vehinhtron\bin\Debug\vehinhtron.pdb
+C:\Users\Dell 7559\source\repos\vehinhCsharp\vehinhtron\obj\Debug\vehinhtron.csproj.CoreCompileInputs.cache
+C:\Users\Dell 7559\source\repos\vehinhCsharp\vehinhtron\obj\Debug\vehinhtron.exe
+C:\Users\Dell 7559\source\repos\vehinhCsharp\vehinhtron\obj\Debug\vehinhtron.pdb

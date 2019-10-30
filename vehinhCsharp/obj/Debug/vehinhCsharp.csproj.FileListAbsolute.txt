@@ -1,0 +1,7 @@
+C:\Users\Dell 7559\source\repos\vehinhCsharp\vehinhCsharp\bin\Debug\vehinhCsharp.exe.config
+C:\Users\Dell 7559\source\repos\vehinhCsharp\vehinhCsharp\bin\Debug\vehinhCsharp.exe
+C:\Users\Dell 7559\source\repos\vehinhCsharp\vehinhCsharp\bin\Debug\vehinhCsharp.pdb
+C:\Users\Dell 7559\source\repos\vehinhCsharp\vehinhCsharp\obj\Debug\vehinhCsharp.csprojAssemblyReference.cache
+C:\Users\Dell 7559\source\repos\vehinhCsharp\vehinhCsharp\obj\Debug\vehinhCsharp.csproj.CoreCompileInputs.cache
+C:\Users\Dell 7559\source\repos\vehinhCsharp\vehinhCsharp\obj\Debug\vehinhCsharp.exe
+C:\Users\Dell 7559\source\repos\vehinhCsharp\vehinhCsharp\obj\Debug\vehinhCsharp.pdb

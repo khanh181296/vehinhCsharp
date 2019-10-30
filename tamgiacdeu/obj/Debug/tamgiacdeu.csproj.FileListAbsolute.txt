@@ -1,0 +1,6 @@
+C:\Users\Dell 7559\source\repos\vehinhCsharp\tamgiacdeu\bin\Debug\tamgiacdeu.exe.config
+C:\Users\Dell 7559\source\repos\vehinhCsharp\tamgiacdeu\bin\Debug\tamgiacdeu.exe
+C:\Users\Dell 7559\source\repos\vehinhCsharp\tamgiacdeu\bin\Debug\tamgiacdeu.pdb
+C:\Users\Dell 7559\source\repos\vehinhCsharp\tamgiacdeu\obj\Debug\tamgiacdeu.csproj.CoreCompileInputs.cache
+C:\Users\Dell 7559\source\repos\vehinhCsharp\tamgiacdeu\obj\Debug\tamgiacdeu.exe
+C:\Users\Dell 7559\source\repos\vehinhCsharp\tamgiacdeu\obj\Debug\tamgiacdeu.pdb

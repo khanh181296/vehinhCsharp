@@ -1,0 +1,6 @@
+C:\Users\Dell 7559\source\repos\vehinhCsharp\hinhkimcuong\bin\Debug\hinhkimcuong.exe.config
+C:\Users\Dell 7559\source\repos\vehinhCsharp\hinhkimcuong\bin\Debug\hinhkimcuong.exe
+C:\Users\Dell 7559\source\repos\vehinhCsharp\hinhkimcuong\bin\Debug\hinhkimcuong.pdb
+C:\Users\Dell 7559\source\repos\vehinhCsharp\hinhkimcuong\obj\Debug\hinhkimcuong.csproj.CoreCompileInputs.cache
+C:\Users\Dell 7559\source\repos\vehinhCsharp\hinhkimcuong\obj\Debug\hinhkimcuong.exe
+C:\Users\Dell 7559\source\repos\vehinhCsharp\hinhkimcuong\obj\Debug\hinhkimcuong.pdb
